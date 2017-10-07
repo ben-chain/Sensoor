@@ -1,0 +1,10 @@
+{
+  "access_token": "d5f98f0c-9c5f-46e5-bd70-2d26abae5b86", 
+  "api": "https://graph.api.smartthings.com/api/smartapps/endpoints/a527c835-1481-4950-b39a-67b916925132/", 
+  "api_location": "graph.api.smartthings.com", 
+  "client_id": "a527c835-1481-4950-b39a-67b916925132", 
+  "client_secret": "d6c8a909-87fc-4bf4-90da-312edb763202", 
+  "expires_in": 1576799998, 
+  "scope": "app", 
+  "token_type": "bearer"
+}
